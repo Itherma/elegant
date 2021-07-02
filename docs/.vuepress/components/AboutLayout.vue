@@ -13,29 +13,6 @@
         <p><a href="https://github.com/HcySunYang">Github</a><a href="http://hcysun.me">Blog</a><a href="https://www.zhihu.com/people/huo-chun-yang-77/activities">知乎</a><a href="http://weibo.com/5316956357">微博</a></p>
       </div>
     </div>
-    <div class="desc-box">
-      <div class="desc-name">
-        <img src="https://avatars2.githubusercontent.com/u/7609249">
-        <p>酱油</p>
-      </div>
-      <div class="desc-text">
-        <p><span>大名：</span>zhangxiao</p>
-        <p><span>小名：</span>peter</p>
-        <p><span>职业：</span>美团小前端</p>
-        <p><a href="https://github.com/zhang-xiao">Github</a><a href="http://varnull.cn">Blog</a><a href="https://www.zhihu.com/people/zhangxiaopeter/activities">知乎</a></p>
-      </div>
-    </div>
-    <div class="desc-box">
-      <div class="desc-name">
-        <img :src="$withBase('/logo.png')">
-        <p>团队</p>
-      </div>
-      <div class="desc-text">
-        <p><span>大名：</span>美团外卖商业增值部的前端组</p>
-        <p><span>小名：</span>WMADFE</p>
-        <p><span>火热招聘中：</span>点击 <a href="https://m.zhipin.com/weijd/v2/job/3ec48e9afd5dc9281nNy39W-GVY~?aid=4504cda0d2b51aa93nVy3dm5&sid=wxs-152765366890566759&from=timeline&isappinstalled=0">JD</a></p>
-      </div>
-    </div>
   </div>
 </template>
 <style lang="stylus" scoped>

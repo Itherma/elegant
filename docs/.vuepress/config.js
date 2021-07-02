@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vue-design/',
+  base: '/elegant/',
   title: 'Vue技术内幕',
   ga: 'UA-120533817-1',
   description: '逐行级别的 Vue 源码分析',
